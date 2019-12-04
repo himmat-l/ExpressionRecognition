@@ -1,0 +1,12 @@
+.data
+*.txt
+*.tfrecords
+*.png
+*.jpg
+*.zip
+*.pdf
+..idea
+*.iml
+*.xml
+.models
+
